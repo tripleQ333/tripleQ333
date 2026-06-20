@@ -189,6 +189,22 @@ echo "[*] Repeat until root."
 ```
 
 > 𝙲𝚢𝚋𝚎𝚛-𝚒𝚗-𝚂𝚘𝚖𝚊𝚕𝚒: 𝚏𝚘𝚛 𝚂𝚘𝚖𝚊𝚕𝚒 𝚜𝚙𝚎𝚊𝚔𝚎𝚛𝚜 𝚜𝚝𝚎𝚙𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚒𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚜𝚑𝚘𝚞𝚕𝚍𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚋𝚊𝚛𝚛𝚒𝚎𝚛.
+<!-- PINNED REPOS -->
+<div align="center">
+<table border="0" cellspacing="6" cellpadding="0">
+<tr>
+<td valign="top">
+  <a href="https://github.com/tripleQ333/Binary-Exploitation-CTFs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripleQ333&repo=Binary-Exploitation-CTFs&theme=chartreuse-dark&hide_border=false" width="400"/>
+  </a>
+</td>
+<td valign="top">
+  <a href="https://github.com/tripleQ333/Cyber-in-Somali">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripleQ333&repo=Cyber-in-Somali&theme=chartreuse-dark&hide_border=false" width="400"/>
+  </a>
+</td>
+</tr>
+<tr>
 
 ---
 
@@ -200,6 +216,7 @@ echo "[*] Repeat until root."
 ╔═══════════════════════╗
 ║   Currently vs Next   ║
 ╚═══════════════════════╝
+  
 </pre></td>
 <td width="62"></td>
 </tr></table>
