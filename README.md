@@ -22,7 +22,8 @@
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=tripleQ333&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&hide_title=false&height=180&rank_icon=github" height="180"/></td>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripleQ333&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8&height=180" height="180"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripleQ333&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8&card_width=450&v=2" width="430"/>
+</td>
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tripleQ333&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=false&height=250&custom_title=Recent%20Contribution%20Activity"/></td>
