@@ -1,23 +1,20 @@
 name: Metrics
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Full-year calendar
+      - name: 2018 calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.calendar.svg
           token: ${{ github.token }}
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_from: 2018-01-01
+          plugin_calendar_to: 2018-12-31
