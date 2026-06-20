@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqcDY0NTZ4cnJqN3h6YXF4c3dmYXR4OGxuNnE5NGFhcmxxeGVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif" width="900"/>
 </p>
----
 
 <!-- STATS -->
 <div align="center">
