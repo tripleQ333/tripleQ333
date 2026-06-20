@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📅 My GitHub Calendar
+
+![Full Year Activity](./metrics.plugin.isocalendar.fullyear.svg)
