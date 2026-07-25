@@ -17,8 +17,8 @@
 <div align="center">
 <table border="0" cellspacing="6" cellpadding="0">
 <tr>
-<td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=tripleQ333&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&rank_icon=github&card_width=450" width="430"/></td>
-<td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripleQ333&theme=chartreuse-dark&hide_border=false&langs_count=4&card_width=450&v=4" width="410"/></td>
+<td valign="top"><img src="https://github-readme-stats-jemg.vercel.app/api?username=tripleQ333&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&rank_icon=github&card_width=450" width="430"/></td>
+<td valign="top"><img src="https://github-readme-stats-jemg.vercel.app/api/top-langs/?username=tripleQ333&theme=chartreuse-dark&hide_border=false&langs_count=4&card_width=450&v=6" width="410"/></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tripleQ333&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=false&height=280&custom_title=Recent%20Contribution%20Activity" width="880"/></td>
@@ -194,16 +194,17 @@ echo "[*] Repeat until root."
 <tr>
 <td valign="top">
   <a href="https://github.com/tripleQ333/Binary-Exploitation-CTFs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripleQ333&repo=Binary-Exploitation-CTFs&theme=chartreuse-dark&hide_border=false" width="400"/>
+    <img src="https://github-readme-stats-jemg.vercel.app/api/pin/?username=tripleQ333&repo=Binary-Exploitation-CTFs&theme=chartreuse-dark&hide_border=false" width="400"/>
   </a>
 </td>
 <td valign="top">
   <a href="https://github.com/tripleQ333/Cyber-in-Somali">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tripleQ333&repo=Cyber-in-Somali&theme=chartreuse-dark&hide_border=false" width="400"/>
+    <img src="https://github-readme-stats-jemg.vercel.app/api/pin/?username=tripleQ333&repo=Cyber-in-Somali&theme=chartreuse-dark&hide_border=false" width="400"/>
   </a>
 </td>
 </tr>
-<tr>
+</table>
+</div>
 
 ---
 
